@@ -1,0 +1,58 @@
+{
+  "StaticData": [
+    {
+      "Name": "Kishan Harode",
+      "Email": "kishanharode0@gmail.com",
+      "Contact": "8474846482",
+      "Address": "Joker Complex Territoy",
+      "Pincode": "8476767",
+      "City": "Nagpur",
+      "id": 1
+    },
+    {
+      "Name": "Vaibhav Khawse",
+      "Email": "vaibhav@test.com",
+      "Contact": "8665678498",
+      "Address": "Hingna Road Complex Jaguar",
+      "Pincode": "494948",
+      "City": "Delhi",
+      "id": 2
+    },
+    {
+      "Name": "Priya Sharma",
+      "Email": "priya.sharma@example.com",
+      "Contact": "9876543210",
+      "Address": "Sunrise Apartments, Gandhi Nagar",
+      "Pincode": "110011",
+      "City": "Delhi",
+      "id": 3
+    },
+    {
+      "Name": "Rahul Patel",
+      "Email": "rahul.patel@example.com",
+      "Contact": "9988776655",
+      "Address": "A-102, Riverview Society",
+      "Pincode": "400001",
+      "City": "Mumbai",
+      "id": 4
+    },
+    {
+      "Name": "Sneha Gupta",
+      "Email": "sneha.gupta@example.com",
+      "Contact": "9898989898",
+      "Address": "B-301, Lakeview Apartments",
+      "Pincode": "560001",
+      "City": "Bangalore",
+      "id": 5
+    },
+    {
+      "Name": "Amit Singh",
+      "Email": "amit.singh@example.com",
+      "Contact": "8765432109",
+      "Address": "C-204, Skyline Rely",
+      "Pincode": "700001",
+      "City": "Kolkata",
+      "id": 6
+    }
+  ]
+}
