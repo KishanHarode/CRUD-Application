@@ -1,0 +1,45 @@
+.container-Width {
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.btn-container{
+    display: flex;
+    padding: 3px;
+}
+.btn-container .btn2{
+    margin-left: 5px
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.form-control {
+    border-radius: 5px;
+}
+
+.btn-primary {
+    border-radius: 5px;
+}
+
+
+
+
+#error-name{
+    position: absolute;
+    left: 400px;
+    top: 170px;
+}
+
+/* Optional: Add media queries for responsiveness */
+@media (max-width: 576px) {
+    .container {
+        width: 100%;
+        padding: 10px;
+    }
+}
